@@ -1,0 +1,24 @@
+{
+  "name": "loop-benchmarks",
+  "version": "1.0.0",
+  "description": "simple loop benchmarks",
+  "main": "index.js",
+  "dependencies": {
+    "beautify-benchmark": "~0.2.4",
+    "benchmark": "~1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:evanlucas/loop-benchmarks"
+  },
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evanlucas/loop-benchmarks/issues"
+  },
+  "homepage": "https://github.com/evanlucas/loop-benchmarks"
+}
